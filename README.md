@@ -1,1 +1,2 @@
 This was a team work to analyze the yelp dataset. We used big query for data extraction and google cloud for data storage.
+We mainly analyzed the 6 states with the largest number of restaurants. In addition, we analyzed the reviews of restaurants in each state and selected their categories from the top 10 most popular restaurants to make wordCloud. The decision maker can make different decisions for different states based on how the top 10 most popular restaurants in each state run their offerings and how they set up their restaurants
