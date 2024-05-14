@@ -1,7 +1,9 @@
 **How to Run Code:**
+
 We use **BigQuery** and **Google Cloud API** to analyze and store data.
 
 **How to Analyze Data:**
+
 We used **Tableau** for data visualization to analyze the distribution of restaurants in different states of the United States, the relationship between the number of reviews and ratings, peak business hours, etc.
 
 - This was a team effort to analyze the Yelp dataset. We utilized **BigQuery** for data extraction and** Google Cloud** for data storage.
